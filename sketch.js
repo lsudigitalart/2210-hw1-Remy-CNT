@@ -20,4 +20,5 @@ function setup() {
     stroke(0, 0, 0)
     fill(200)
     ellipse(91, 108, 5, 5)
+    
   }
